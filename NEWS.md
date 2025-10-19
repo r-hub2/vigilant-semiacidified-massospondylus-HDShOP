@@ -1,6 +1,6 @@
 # HDShOP 0.1.6
 
-* Citation info was added. Unit tests were adjusted to comply with testthat 3.0.0.
+* Citation info was added. Unit tests were adjusted to comply with testthat 3.0.0. Funtion plot_frontier received an update in the part with ggplot2 aestetics to be compatible with ggplot2 3.5.2+.
 
 # HDShOP 0.1.5
 
